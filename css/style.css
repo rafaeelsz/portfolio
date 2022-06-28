@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+article{
+    background-color: #468AF9;
+    width: 1349,99px;
+    height: 519px;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+.logo{
+    margin-right: 700px;
+    font-family: 'K2D', sans-serif;
+    font-weight: 700;
+    color: black;
+    font-size: 25px;
+    display: grid;
+    place-items: center;
+}
+.log{
+    position: absolute;
+    padding-right: 1040px;
+    margin-top: 40px;
+}
+.entrar,
+.cadastro{
+    border: 2px solid #000000;
+    border-radius: 24px;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+ul{
+   list-style-type: none;
+   display: flex;
+   align-items: center;
+   flex-direction: row-reverse;
+   padding-top: 21px;
+   gap: 50px;
+   margin-right: 92px;
+}
+h1,
+h2,
+h3{
+    font-family: 'K2D', sans-serif;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 50px;
+    font-weight: 500;
+    color: white;
+}
+h5{
+    font-family: 'K2D', sans-serif;
+    color: #000641;
+    font-weight: 700;
+    font-size: 35px;
+    padding-left: 129px;
+    padding-top: 15px;
+}
+p{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    width: 450px;
+    padding-top: 32px;
+    margin-left: 129px;
+}
+.redes{
+    padding: 32px 129px;
+}
+.zap,
+.tt,
+.fb,
+.linkd{
+    margin-left: -35px;
+}
+
+
+h2{
+    color: #00109F;
+    font-size: 50px;
+    font-family: 'K2D', sans-serif;
+    font-weight: 600;
+    margin: 105px 169px 18px;
+}
+.desc{
+    color: black;
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    width: 708px;
+    margin-left: 169px;
+    margin-top: -25px;
+}
+.bk{
+    width: 308px;
+    height: 308px;
+    display: flex;
+    margin-top: -300px;
+    margin-left: 964px;
+    border-radius: 5px;
+}
+div{
+    max-width: 1103px;
+}
+.amarelo{
+    background-color: #CDA647;
+    margin-top: 83px;
+    width: 1349,99px;
+    height: 1031px;
+}
+h3{
+    color: #000F9A;
+    font-family: 'K2D', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 55px;
+}
+.picture{
+    margin-left: 202px;
+}
+.trab{
+    background-color: white;
+    width: 883px;
+    height: 123px;
+    margin-left: 245px;
+    position: absolute;
+    margin-top: 140px;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 16px;
+
+}
+.trabalhos{
+    color: black;
+    padding-top: 29px;
+}
+.tpag{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 185px;
+    margin-left: 200px;
+}
+.aaa,
+.aaaa{
+    border-radius: 3px;
+}
+.aaa{
+    margin-left: 125px;
+}
+.art{
+    width: 1349,99px;
+    height: 520px;
+    margin-top: 88px;
+}
+.az{
+    background-color: black;
+    width: 1400px;
+    height: 169px;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 19px;
+    margin-left: 120px;
+    margin-top: 24px;
+    position: absolute;
+}
+.tata{
+    color: white;
+}
+.ppp{
+    display: flex;
+    justify-content: flex-end;
+    width: 1100px;
+    height: 95px;
+    padding: 242px;
+}
+.pppp{
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    width: 1100px;
+    height: 100px;
+    padding: 242px;
+    margin-top: 120px;
+    
+    
+}
+.contato{
+    width: 1349,99px;
+    height: 900px;
+    background-color: #264A85;
+}
+.cc{
+    color: white;
+    font-weight: 400;
+}
+.o,
+.oo,
+.ooo,
+.oooo{
+    color: #858585;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    padding: 21px;
+    display: flex;
+    margin-left: 27px;
+    width: 350px;
+}
+.o{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.oo{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 90px;
+}
+.ooo{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: 90px;
+}
+.oooo{
+    position: absolute;
+    height: 255px;
+    width: 1030px;
+    margin-left: 150px;
+    margin-top: 250px;
+}
+.enviar{
+    font-family: 'K2D', sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+    background: #AE2626;
+    width: 140px;
+    height: 72px;
+    border-radius: 6px;
+    margin: 590px;
+    margin-top: -190px;
+    list-style: none;
+    padding-left: 25px;
+}
+.rafael{
+    width: 600px;
+    font-size: 15px;
+    margin-top: 720px;
+    margin-left: 525px;
+    color: black;
+}
+.redes{
+    position: absolute;
+}
+.icone_topo{
+    background: url(../assets/lsete.svg);
+    background-position: center -10px;
+    width: 38px;
+    height: 38px;
+    position: fixed;
+    right: 32px;
+    bottom: 32px;
+    background-color: white;
+    border-radius: 5px;
+}
+.hero{
+    display: grid;
+    place-items: center;
+}
